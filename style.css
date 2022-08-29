@@ -21,36 +21,6 @@
       display: none;
     }
   
-    /* .logo {
-      align-items: center;
-    }
-  
-    .navi {
-      display: flex;
-      flex-direction: row;
-      gap: 10px;
-      list-style: none;
-      justify-content: space-around;
-      padding: 10px 12px;
-      text-decoration: none;
-    }
-  
-    nav li {
-      width: 63px;
-      height: 20px;
-      margin-right: 10px;
-    }
-  
-    nav a {
-      width: 63px;
-      height: 20px;
-      font-family: "Inter", sans-serif;
-      font-style: normal;
-      font-weight: 600;
-      font-size: 15px;
-      line-height: 20px;
-      color: white;
-    } */
   .nav-color{
     background-color: #3E3C3C;
   }
